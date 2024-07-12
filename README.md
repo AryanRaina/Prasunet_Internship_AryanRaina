@@ -20,7 +20,7 @@ A fully responsive landing page designed to adapt to different screen sizes, pro
 - Modern UI/UX design
 
 ### Screenshot
-![Responsive Landing Page](assets/images/Responsive Landing Page.png)
+![Responsive Landing Page](assets/images/ResponsiveLandingPage.png)
 
 ### Technologies Used
 - HTML
@@ -52,7 +52,7 @@ A digital stopwatch application that allows users to start, stop, pause, and res
 - Responsive design
 
 ### Screenshot
-![Stopwatch](assets/images/Stopwatch web Application.png)
+![Stopwatch](assets/images/StopwatchwebApplication.png)
 
 ### Technologies Used
 - HTML
@@ -80,7 +80,7 @@ A weather application that provides real-time weather information for any city u
 - Dynamic background images based on weather conditions
 
 ### Screenshot
-![Weather App](assets/images/Weather App.png)
+![Weather App](assets/images/WeatherApp.png)
 
 ### Technologies Used
 - HTML
@@ -109,7 +109,7 @@ A classic Tic Tac Toe game where two players can play against each other. The ga
 - Responsive design
 
 ### Screenshot
-![Tic Tac Toe](assets/images/Tic-Tac-Toe Web Application.png)
+![Tic Tac Toe](assets/images/Tic-Tac-ToeWebApplication.png)
 
 ### Technologies Used
 - HTML
